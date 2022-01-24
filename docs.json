@@ -7,112 +7,226 @@
     "apiKey": "2ff50d339da84829e844f7ec73c0708d",
     "indexName": "gorouter"
   },
-  "sidebar": [
-    [
-      "Welcome",
+  "sidebar": {
+    "gb": [
       [
+        "Welcome",
         [
-          "Overview",
-          "/"
-        ],
+          [
+            "Overview",
+            "/"
+          ],
+          [
+            "Contributors",
+            "/contributors"
+          ],
+          [
+            "Changelog",
+            "/changelog"
+          ],
+          [
+            "Migrating to 3.0",
+            "/migrating-to-30"
+          ],
+          [
+            "Migrating to 2.5",
+            "/migrating-to-25"
+          ],
+          [
+            "Migrating to 2.0",
+            "/migrating-to-20"
+          ]
+        ]
+      ],
+      [
+        "Getting Started",
+        "/getting-started"
+      ],
+      [
+        "Declarative Routing",
+        "/declarative-routing"
+      ],
+      [
+        "Navigation",
+        "/navigation"
+      ],
+      [
+        "Parameters",
+        "/parameters"
+      ],
+      [
+        "Sub-routes",
+        "/sub-routes"
+      ],
+      [
+        "Redirection",
+        "/redirection"
+      ],
+      [
+        "Named Routes",
+        "/named-routes"
+      ],
+      [
+        "User Input",
+        "/user-input"
+      ],
+      [
+        "URL Path Strategy",
+        "/url-path-strategy"
+      ],
+      [
+        "Debugging Your Routes",
+        "/debugging"
+      ],
+      [
+        "Examples",
+        "/examples"
+      ],
+      [
+        "Issues",
+        "/issues"
+      ],
+      [
+        "Advanced Routing",
         [
-          "Contributors",
-          "/contributors"
-        ],
-        [
-          "Changelog",
-          "/changelog"
-        ],
-        [
-          "Migrating to 3.0",
-          "/migrating-to-30"
-        ],
-        [
-          "Migrating to 2.5",
-          "/migrating-to-25"
-        ],
-        [
-          "Migrating to 2.0",
-          "/migrating-to-20"
+          [
+            "Transitions",
+            "/transitions"
+          ],
+          [
+            "Async Data",
+            "/async-data"
+          ],
+          [
+            "Nested Navigation",
+            "/nested-navigation"
+          ],
+          [
+            "Navigator Builder",
+            "/navigator-builder"
+          ],
+          [
+            "Web History",
+            "/web-history"
+          ],
+          [
+            "Type Routing Proposal",
+            "/typed-routing"
+          ]
         ]
       ]
     ],
-    [
-      "Getting Started",
-      "/getting-started"
-    ],
-    [
-      "Declarative Routing",
-      "/declarative-routing"
-    ],
-    [
-      "Navigation",
-      "/navigation"
-    ],
-    [
-      "Parameters",
-      "/parameters"
-    ],
-    [
-      "Sub-routes",
-      "/sub-routes"
-    ],
-    [
-      "Redirection",
-      "/redirection"
-    ],
-    [
-      "Named Routes",
-      "/named-routes"
-    ],
-    [
-      "User Input",
-      "/user-input"
-    ],
-    [
-      "URL Path Strategy",
-      "/url-path-strategy"
-    ],
-    [
-      "Debugging Your Routes",
-      "/debugging"
-    ],
-    [
-      "Examples",
-      "/examples"
-    ],
-    [
-      "Issues",
-      "/issues"
-    ],
-    [
-      "Advanced Routing",
+    "jp": [
       [
+        "いらっしゃいませ",
         [
-          "Transitions",
-          "/transitions"
-        ],
+          [
+            "go_router へようこそ!",
+            "/jp"
+          ],
+          [
+            "コントリビューター",
+            "/jp/contributors"
+          ],
+          [
+            "変更履歴",
+            "/jp/changelog"
+          ],
+          [
+            "3.0 への移行について",
+            "/jp/migrating-to-30"
+          ],
+          [
+            "2.5 への移行について",
+            "/jp/migrating-to-25"
+          ],
+          [
+            "2.0 への移行について",
+            "/jp/migrating-to-20"
+          ]
+        ]
+      ],
+      [
+        "はじめに",
+        "/jp/getting-started"
+      ],
+      [
+        "宣言的なルーティング（Routing）",
+        "/jp/declarative-routing"
+      ],
+      [
+        "ナビゲーション",
+        "/jp/navigation"
+      ],
+      [
+        "パラメータ",
+        "/jp/parameters"
+      ],
+      [
+        "サブルート",
+        "/jp/sub-routes"
+      ],
+      [
+        "リダイレクト",
+        "/jp/redirection"
+      ],
+      [
+        "名前付きルート",
+        "/jp/named-routes"
+      ],
+      [
+        "ユーザー入力フォーム",
+        "/jp/user-input"
+      ],
+      [
+        "URL パス・ストラテジー",
+        "/jp/url-path-strategy"
+      ],
+      [
+        "ルートのデバッグ",
+        "/jp/debugging"
+      ],
+      [
+        "サンプルコード集",
+        "/jp/examples"
+      ],
+      [
+        "Issue について",
+        "/jp/issues"
+      ],
+      [
+        "応用編",
         [
-          "Async Data",
-          "/async-data"
-        ],
-        [
-          "Nested Navigation",
-          "/nested-navigation"
-        ],
-        [
-          "Navigator Builder",
-          "/navigator-builder"
-        ],
-        [
-          "Web History",
-          "/web-history"
-        ],
-        [
-          "Type Routing Proposal",
-          "/typed-routing"
+          [
+            "トランジション効果",
+            "/jp/transitions"
+          ],
+          [
+            "非同期データ",
+            "/jp/async-data"
+          ],
+          [
+            "ネスト（入れ子）型ナビゲーション",
+            "/jp/nested-navigation"
+          ],
+          [
+            "Navigator ビルダー",
+            "/jp/navigator-builder"
+          ],
+          [
+            "ウェブ履歴",
+            "/jp/web-history"
+          ],
+          [
+            "型付けルーティングの提案",
+            "/jp/typed-routing"
+          ]
         ]
       ]
     ]
-  ]
+  },
+  "locales": {
+    "gb": "english",
+    "jp": "日本"
+  }
 }
