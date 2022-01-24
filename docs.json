@@ -18,100 +18,100 @@
           ],
           [
             "Contributors",
-            "/contributors"
+            "/gb/contributors"
           ],
           [
             "Changelog",
-            "/changelog"
+            "/gb/changelog"
           ],
           [
             "Migrating to 3.0",
-            "/migrating-to-30"
+            "/gb/migrating-to-30"
           ],
           [
             "Migrating to 2.5",
-            "/migrating-to-25"
+            "/gb/migrating-to-25"
           ],
           [
             "Migrating to 2.0",
-            "/migrating-to-20"
+            "/gb/migrating-to-20"
           ]
         ]
       ],
       [
         "Getting Started",
-        "/getting-started"
+        "/gb/getting-started"
       ],
       [
         "Declarative Routing",
-        "/declarative-routing"
+        "/gb/declarative-routing"
       ],
       [
         "Navigation",
-        "/navigation"
+        "/gb/navigation"
       ],
       [
         "Parameters",
-        "/parameters"
+        "/gb/parameters"
       ],
       [
         "Sub-routes",
-        "/sub-routes"
+        "/gb/sub-routes"
       ],
       [
         "Redirection",
-        "/redirection"
+        "/gb/redirection"
       ],
       [
         "Named Routes",
-        "/named-routes"
+        "/gb/named-routes"
       ],
       [
         "User Input",
-        "/user-input"
+        "/gb/user-input"
       ],
       [
         "URL Path Strategy",
-        "/url-path-strategy"
+        "/gb/url-path-strategy"
       ],
       [
         "Debugging Your Routes",
-        "/debugging"
+        "/gb/debugging"
       ],
       [
         "Examples",
-        "/examples"
+        "/gb/examples"
       ],
       [
         "Issues",
-        "/issues"
+        "/gb/issues"
       ],
       [
         "Advanced Routing",
         [
           [
             "Transitions",
-            "/transitions"
+            "/gb/transitions"
           ],
           [
             "Async Data",
-            "/async-data"
+            "/gb/async-data"
           ],
           [
             "Nested Navigation",
-            "/nested-navigation"
+            "/gb/nested-navigation"
           ],
           [
             "Navigator Builder",
-            "/navigator-builder"
+            "/gb/navigator-builder"
           ],
           [
             "Web History",
-            "/web-history"
+            "/gb/web-history"
           ],
           [
             "Type Routing Proposal",
-            "/typed-routing"
+            "/gb/typed-routing"
           ]
         ]
       ]
